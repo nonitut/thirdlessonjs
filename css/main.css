@@ -1,0 +1,40 @@
+.clickbox{
+    height: 5vw;
+    width: 5vw;
+    background: lightsteelblue;
+    margin: 1%;
+    cursor: pointer;
+}
+
+.block{
+    display: block;
+}
+
+.none{
+    display: none;
+}
+
+button{
+    cursor: pointer;
+    font-size: 16px;
+    border: none;
+    padding: 1% 2%;
+    border-radius: 5px;
+    margin-top: 2%;
+    color: aliceblue;
+    background: black;
+}
+section{
+    height: 25vw;
+}
+.section1{
+    background: lavenderblush;
+}
+
+.section2{
+    background: lightcyan;
+}
+
+.section3{
+    background: rgb(235, 224, 255);
+}
