@@ -53,7 +53,8 @@ button3.addEventListener("click", function(){
     showSection("section1")
 });
 
-
+// ourClass — строка, например "section2".
+// section.classList.contains(ourClass) проверяет, есть ли у элемента section этот класс
 
 
 });
